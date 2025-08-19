@@ -35,7 +35,8 @@ let nama = "", peran = "";
 
 ```
 
-## Soal 2
+
+```## Soal 2
 ```js
 // Kamu akan diberikan sebuah tanggal dalam tiga variabel, yaitu hari, bulan, dan tahun. Disini kamu diminta untuk membuat format tanggal. Misal tanggal yang diberikan adalah hari 1, bulan 5, dan tahun 1945. Maka, output yang harus kamu proses adalah menjadi 1 Mei 1945.
 
@@ -55,7 +56,6 @@ let bulan = "februari"; // assign nilai variabel bulan disini! (dengan angka ant
 let tahun = 2001; // assign nilai variabel tahun disini! (dengan angka antara 1900 - 2200)
 
 //code switch case kamu disini
-```
 
 ---
 video biar rada paham lah, soalnya ini awal kepahitan ngoding wkwk:
